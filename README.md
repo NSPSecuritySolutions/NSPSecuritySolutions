@@ -1,33 +1,95 @@
-<h1>Hi, I'm Wayne! <br/><a href="https://github.com/joshmadakor1">Veteran</a> and <a href="https://www.linkedin.com/in/wayne-coy1/">Cybersecurity Professional</a>
+<h1>Hi, I'm Wayne! <br/><a href="https://github.com/NSPSecuritySolutions">Veteran</a> and <a href="https://www.linkedin.com/in/wayne-coy1/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Vulnerability Management Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
+  
+  
+  -<b>Vulnerability Management</b>
+- <b>Keylogger<b>
+  -https://www.youtube.com/watch?v=N-L9hklSlNk
+  
+- <b>Building A Packet Sniffer</b>
+  - [Practice creating a packet sniffer](https://github.com/name/section)
+  Python 
+  https://www.youtube.com/watch?v=WGJC5vT5YJo
+  Windows Privilege Escalation and Keyboard Sniffing with Metasploit and Powershell
+  youtube.com/watch?v=BAndD6a4wA0
+  
+  Creating a sinkhole
+  How to Create a Sinkhole DNS Policy on the FMC
+  https://www.youtube.com/watch?v=QClnyP7Shs0
+  How to Configure DNS Sinkhole | What is DNS sinkhole| Concept| LAB | DAY 44 |
+  https://www.youtube.com/watch?v=aF5Vn3aQywU
+  
+  creating a honey pot
+  What is a honeypot, How to install and what can we see from honeypots?
+  https://www.youtube.com/watch?v=0WUaI2pNiPI
+  Cyber Security Projects - Honeypot (watch hackers FAIL...it's AWESOME!!)
+  https://www.youtube.com/watch?v=r9b6H2N9eDE&t=25s
+  
+- <b>nMap</b>
+  - [Practice with nMap](https://github.com/name/section)
+  Nmap Tutorial to find Network Vulnerabilities
+  https://www.youtube.com/watch?v=4t4kBkMsDbQ
+  Use Nmap for Tactical Network Reconnaissance [Tutorial]
+  https://www.youtube.com/watch?v=ltEFbi_I2KY
+  
+- <b>QualysGuard</b>
+  - [Practice with Qualys](https://github.com/name/section)
+  
+- <b>Data Loss Retrieval</b>
+  - [Data Loss Practice](https://github.com/name/section)
+  
+- <b>AWS and Azure</b>
+  - [Practice](https://github.com/name/section)
+  
+- <b>SQL Injection</b>
+  - [Practice](https://github.com/name/section)
+ 
+- <b>Security Assessment Report on an Existing Websites</b>
+  - [Practice](https://github.com/name/section)
+
+- <b>Create a Cybersecurity Policy from Scratch<b>
+  - [Create a Policy](https://github.com/name/section)
+ 
+- <b>Scanning Strategies and Best Practices<b>
+
+- <b>Reporting Strategies and Best Practices<b>
+
+<h2>Tools</h2>  
+
+nMap    
+Qualys    
+Snort  
+Splunk  
+WireShark
+Wazuh  
+osForensic
+SpyBot
+  
+<h2>Antivirus Software</h2>  
+  
+Avast
+Sophos
+Malwarebytes
+  
 
 <h2>Coding Projects</h2>
 
-- [Python](https://www.)
-- [Powershell](https://www.)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+    Active Directory home lab with powershell
+  - [Python](https://www.)
+  - [Powershell](https://www.)
+  - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>Penetration Testing Projects</h2>
 
-- [Example] (
+  - [Example] (
 
+  
+<h2>Certifications and Credentials</h2>
+  
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NSPSecSolutions | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
@@ -41,7 +103,7 @@
 [linkedin]: https://www.linkedin.com/in/wayne-coy1/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NSPSecuritySolutions/NSPSecuritySolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
