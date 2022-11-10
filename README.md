@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wayne! <br/><a href="https://github.com/NSPSecuritySolutions">Veteran</a> and <a href="https://www.linkedin.com/in/wayne-coy1/">Cybersecurity Professional</a>
+<h1>Hi, I'm Wayne! <br/><a href="https://github.com/NSPSecuritySolutions">USMC/ Army Reserves Veteran</a> and <a href="https://www.linkedin.com/in/wayne-coy1/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
