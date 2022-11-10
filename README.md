@@ -67,6 +67,7 @@ WireShark
 Wazuh  
 osForensic
 SpyBot
+Spiderfoot
   
 <h2>Antivirus Software</h2>  
   
